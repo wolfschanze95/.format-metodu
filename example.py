@@ -1,2 +1,1 @@
-isim=input("lutfen isim gir")
-print("kullanicinin girdigi deger:{}".format(isim))
+print("isminiz{isim}yasiniz{yas}okulunuz{okul}".format(isim="mehmet",yas=15,okul="ALA",))
